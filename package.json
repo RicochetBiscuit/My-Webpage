@@ -59,7 +59,7 @@
     "@babel/core": "^7.25.2",
     "@slicemachine/adapter-next": "^0.3.46",
     "@testing-library/dom": "^10.4.0",
-    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
     "@types/debug": "^4.1.12",
     "@types/jest": "^29.5.13",
